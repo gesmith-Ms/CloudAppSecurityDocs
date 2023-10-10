@@ -14,8 +14,9 @@ You can configure automatic log upload for continuous reports in Defender for Cl
 
 * OS:
   * Ubuntu 14.04, 16.04, 18.04 and 20.04
-  * RHEL 7.2 or higher
+  * RHEL 7.2-7.9**
   * CentOS 7.2 or higher
+  * **NOTE as of RHEL 8, Red Hat no longer continues to support Docker. We recommend utilizing a Linux Distro that supports full docker containerization capabilities.  
 
 * Disk space: 250 GB
 
